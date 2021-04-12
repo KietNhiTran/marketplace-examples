@@ -1,8 +1,9 @@
-# Installation guide - Microsft Commercial Marketplace Community Sample Code and SDK for SaaS Applications
+# Simplified Installation guide 
+## (Microsft Commercial Marketplace Community Sample Code and SDK for SaaS Applications)
 
 ## Introduction
 
-This page simplified the install instruction for the sameple code located here ![Microsoft-commercial-marketplace-transactable-SaaS-offer-SDK](https://github.com/Azure/Microsoft-commercial-marketplace-transactable-SaaS-offer-SDK) as well as fix error during deployment.
+This page simplified the install instruction for the sameple code located here [Microsoft-commercial-marketplace-transactable-SaaS-offer-SDK](https://github.com/Azure/Microsoft-commercial-marketplace-transactable-SaaS-offer-SDK) as well as fix error during deployment.
 
 ## Prerequisite
 
@@ -17,7 +18,7 @@ This page simplified the install instruction for the sameple code located here !
 
 ### Step 1: source code
 
-* Repo1: Clone the original repository ![Microsoft-commercial-marketplace-transactable-SaaS-offer-SDK](https://github.com/Azure/Microsoft-commercial-marketplace-transactable-SaaS-offer-SDK)
+* Repo1: Clone the original repository [Microsoft-commercial-marketplace-transactable-SaaS-offer-SDK](https://github.com/Azure/Microsoft-commercial-marketplace-transactable-SaaS-offer-SDK)
 * Repo2: Clone this repossitory
 * Copy 2 files in the templates folder of **repo2** to the template folder of **repo1**
 
